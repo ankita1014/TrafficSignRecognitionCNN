@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Dataset (do not commit large data)
+../traffic_Data/
+../labels.csv
+
+# Models (large .keras files)
+models/*.keras
+
+# Outputs (regenerated)
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/

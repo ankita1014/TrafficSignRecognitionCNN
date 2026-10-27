@@ -1,0 +1,14 @@
+# Traffic Sign Recognition - Enhanced LeNet-5 CNN
+# Python 3.13 compatible — CPU-only TensorFlow
+# Pinned versions verified to install on Python 3.13 / Windows
+
+tensorflow==2.20.0
+numpy==2.2.6
+pandas==2.2.3
+opencv-python==4.10.0.84
+Pillow==11.1.0
+matplotlib==3.9.4
+seaborn==0.13.2
+scikit-learn==1.6.1
+streamlit==1.44.1
+plotly==6.0.1
